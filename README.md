@@ -41,18 +41,23 @@ In “Outcomes Based on Goals” the plot trend for “Number Successful” and 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 If Louise wants a higher chance of her play having a successful fundraising campaign, she should do it in May.
 
 Louise should avoid fundraising her campaign towards the end of the year as that is when the least amount of fundraising are successful and highest failed fundraisings.
 
 - What can you conclude about the Outcomes based on Goals?
+
 The higher the fundraising goal, the lower the chances of it being successful so Louise should keep your fundraising low and keep it below $20,000 to have a 50% or higher of it succeeding. 
 
 - What are some limitations of this dataset?
+
 The data is old, 2016 being the latest. The data needs to be more recent since the fundraising will happen “today” and not in the past. 
 
 The sample sizes are too small, this limitation was shown in “Outcomes Based on Goals” because we saw how representing “Percentage Successful” and “Percentage Fail” was shewed for the higher goal ranges.  
 
 - What are some other possible tables and/or graphs that we could create?
+
 In “Theater Outcomes by Launch Date” we could represent the outcomes by quarters because fundraising campaigns can occur over series of months rather than just one month.
+
 In “Outcomes Based on Goals” we could create a line plot of Fundraising Outcome Counts versus Goal Range to overcome the small sample size when goal range got too large. We can also represent the trend using a bar chart because a line chart is better use to illustrate changes over time.
